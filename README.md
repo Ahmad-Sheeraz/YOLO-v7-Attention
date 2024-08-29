@@ -18,11 +18,11 @@ Dataset: Used private dataset total amount of around 60k samples. The classes in
 The architecture is based on YOLOv7 with the modification in the backbone architecture by intergrating Squeeze & Excitation attention module.
 
 <p align="center">
-<img src="https://github.com/Ahmad-Sheeraz/YOLO-v7-Attention/assets/yolov7_architecture" width="550" alt="dataset"/>
+<img src="https://github.com/Ahmad-Sheeraz/YOLO-v7-Attention/assets/yolov7_architecture.png" width="550" alt="dataset"/>
 </p>
 
 <p align="center">
-<img src="https://github.com/Ahmad-Sheeraz/YOLO-v7-Attention/assets/dataset/se_architecture" width="550" alt="dataset"/>
+<img src="https://github.com/Ahmad-Sheeraz/YOLO-v7-Attention/assets/dataset/se_architecture.png" width="550" alt="dataset"/>
 </p>
 
 
@@ -34,16 +34,16 @@ Training stratigies are mentioned in the Research article.
 ## Results
 
 <p align="center">
-<img src="https://github.com/Ahmad-Sheeraz/YOLO-v7-Attention/assets/results" width="550" alt="results"/>
+<img src="https://github.com/Ahmad-Sheeraz/YOLO-v7-Attention/assets/results.png" width="550" alt="results"/>
 </p>
 
 ### Predictions-
 
 <p align="center">
-<img src="https://github.com/Ahmad-Sheeraz/YOLO-v7-Attention/assets/det1" width="550" alt="Training plot"/>
+<img src="https://github.com/Ahmad-Sheeraz/YOLO-v7-Attention/assets/det1.png" width="550" alt="Training plot"/>
 </p>
 <p align="center">
-<img src="https://github.com/Ahmad-Sheeraz/YOLO-v7-Attention/assets/det2" width="550" alt="Training plot"/>
+<img src="https://github.com/Ahmad-Sheeraz/YOLO-v7-Attention/assets/det2.png" width="550" alt="Training plot"/>
 </p>
 
 ## Code
