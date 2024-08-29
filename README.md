@@ -11,7 +11,7 @@
 Dataset: Used private dataset total amount of around 60k samples. The classes included Cancer, Adenoma, Ulcer and Normal cases. 
 
 <p align="center">
-<img src="https://github.com/Ahmad-Sheeraz/YOLO-v7-Attention/assets/dataset" width="550" alt="dataset"/>
+<img src="https://github.com/Ahmad-Sheeraz/YOLO-v7-Attention/assets/dataset.png" width="550" alt="dataset"/>
 </p>
 
 ## Architecture
